@@ -1,0 +1,18 @@
+C:\Users\Gladiator\source\repos\Simple Calculator\Simple Calculator\obj\Debug\SimpleCalculator.csprojAssemblyReference.cache
+C:\Users\Gladiator\source\repos\Simple Calculator\Simple Calculator\obj\Debug\CalculatorUC.g.cs
+C:\Users\Gladiator\source\repos\Simple Calculator\Simple Calculator\obj\Debug\MainWindow.g.cs
+C:\Users\Gladiator\source\repos\Simple Calculator\Simple Calculator\obj\Debug\App.g.cs
+C:\Users\Gladiator\source\repos\Simple Calculator\Simple Calculator\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Gladiator\source\repos\Simple Calculator\Simple Calculator\obj\Debug\Simple Calculator_MarkupCompile.cache
+C:\Users\Gladiator\source\repos\Simple Calculator\Simple Calculator\obj\Debug\Simple Calculator_MarkupCompile.lref
+C:\Users\Gladiator\source\repos\Simple Calculator\Simple Calculator\bin\Debug\Simple Calculator.exe.config
+C:\Users\Gladiator\source\repos\Simple Calculator\Simple Calculator\bin\Debug\Simple Calculator.exe
+C:\Users\Gladiator\source\repos\Simple Calculator\Simple Calculator\bin\Debug\Simple Calculator.pdb
+C:\Users\Gladiator\source\repos\Simple Calculator\Simple Calculator\obj\Debug\CalculatorUC.baml
+C:\Users\Gladiator\source\repos\Simple Calculator\Simple Calculator\obj\Debug\MainWindow.baml
+C:\Users\Gladiator\source\repos\Simple Calculator\Simple Calculator\obj\Debug\Simple Calculator.g.resources
+C:\Users\Gladiator\source\repos\Simple Calculator\Simple Calculator\obj\Debug\Simple_Calculator.Properties.Resources.resources
+C:\Users\Gladiator\source\repos\Simple Calculator\Simple Calculator\obj\Debug\SimpleCalculator.csproj.GenerateResource.cache
+C:\Users\Gladiator\source\repos\Simple Calculator\Simple Calculator\obj\Debug\SimpleCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Gladiator\source\repos\Simple Calculator\Simple Calculator\obj\Debug\Simple Calculator.exe
+C:\Users\Gladiator\source\repos\Simple Calculator\Simple Calculator\obj\Debug\Simple Calculator.pdb
